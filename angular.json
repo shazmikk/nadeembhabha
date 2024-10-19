@@ -23,13 +23,27 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "public"
+                "input": "src/assets"
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/bootstrap-rtl.css",
+              "src/assets/css/bootstrap-rtl.css",
+              "src/assets/style.css",
+              "src/assets/style-rtl.css",
+              "src/assets/css/swiper.css",
+              "src/assets/css/dark.css",
+              "src/assets/css/font-icons.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/custom.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.js",
+              "src/assets/js/plugins.min.js",
+              "src/assets/js/functions.js"
+            ]
           },
           "configurations": {
             "production": {

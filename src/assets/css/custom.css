@@ -1,0 +1,57 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+.slider-caption h2 {
+  letter-spacing: 0 !important;
+  text-transform: none;
+}
+.heading-block h1, .heading-block h2, .heading-block h3, .heading-block h4, .emphasis-title h1, .emphasis-title h2 {
+  letter-spacing: 0 !important;
+}
+.menu-link {
+  font-size: 1.5rem !important;
+  letter-spacing: 0 !important;
+  font-family: 'mher', serif !important;
+}
+.counter + h5 {
+  font-weight: 700;
+  letter-spacing: 0 !important;
+}
+h5 {
+  font-size: 2rem !important;
+}
+.fbox-content h3 {
+  font-family: 'mher', serif !important;
+}
+.heading-block h3 {
+  font-size: 2.75rem ! important;
+}
+.button {
+	letter-spacing: 0 !important;
+}
+#page-title h1 {
+	letter-spacing: 0 !important;
+}
+.ghazal-text-justify {
+	font-weight: 400;
+	font-size: 1.5rem;
+	text-align-last: justify;
+	line-height: 3.5rem;
+}
+.entry-title.title-sm h2, .entry-title.title-sm h3 {
+  font-size: 1.5rem !important;
+  letter-spacing: 0 !important;
+  margin: 0 0 30px 0 !important;
+}
+.sidebar-widgets-wrap .widget > h4 {
+  letter-spacing: 0 !important;
+  font-size: 1.5rem !important;
+}
+.widget_links li {
+	font-size: 18px;
+}
